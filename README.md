@@ -15,6 +15,7 @@ Installation
 ============
 
 *Note: This requires developer tools to be installed in order to build successfully*
+    Use `sudo brew install automake` to install the autoconf tool used in `./install.sh` firstly.
 
     git clone https://github.com/FreedomBen/screen-for-OSX.git && cd screen-for-OSX && ./install.sh
     
